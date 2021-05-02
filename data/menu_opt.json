@@ -1,0 +1,60 @@
+{
+    "nameppApp" : "flutter_app",
+    "routes" : [
+        {
+            "route" : "alert",
+            "icon" : "add_alert",
+            "text": "Alertas"
+        },
+        {
+            "route" : "avatar",
+            "icon" : "accessibility",
+            "text": "Avatars"
+        },
+        {
+            "route" : "card",
+            "icon" : "folder_open",
+            "text": "Cards - Tarjetas"
+        },
+        {
+            "route" : "statefulCounter",
+            "icon" : "remove_alert",
+            "text": "Counter with stateful"
+        },
+        {
+            "route" : "statelessPage",
+            "icon" : "folder_close",
+            "text": "page with stateless"
+        },
+        {
+            "route" : "listview",
+            "icon" : "list",
+            "text": "List page"
+        },
+        {
+            "route" : "animatedContainer",
+            "icon" : "donut_large",
+            "text": "Animated container"
+        },
+        {
+            "route" : "inputs",
+            "icon" : "input",
+            "text": "Input Fields"
+        },
+        {
+            "route" : "slider",
+            "icon" : "list",
+            "text": "Sliders - Checkbox - Switch"
+        },
+        {
+            "route" : "listbuilders",
+            "icon" : "list",
+            "text": "List Builders"
+        },
+        {
+            "route" : "infinite",
+            "icon" : "list",
+            "text": "List Builders with infinite scroll"
+        }
+    ]
+}
