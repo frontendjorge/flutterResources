@@ -9,6 +9,7 @@ class AlertPage extends StatelessWidget {
       ),
       body: Center(
         child: ElevatedButton(
+          key: Key('alertButton'),
           onPressed: () => _showAlert(context),
           child: Text('Mostrar Alerta'),
           style: ElevatedButton.styleFrom(
